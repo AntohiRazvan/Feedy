@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:key="@string/top_stories"
+        android:title="@string/top_stories"
+        android:defaultValue="false" />
+    <CheckBoxPreference
+        android:key="@string/world"
+        android:title="@string/world"
+        android:defaultValue="false" />
+    <CheckBoxPreference
+        android:key="@string/business"
+        android:title="@string/business"
+        android:defaultValue="false" />
+    <CheckBoxPreference
+        android:key="@string/politics"
+        android:title="@string/politics"
+        android:defaultValue="false" />
+    <CheckBoxPreference
+        android:key="@string/health"
+        android:title="@string/health"
+        android:defaultValue="false" />
+    <CheckBoxPreference
+        android:key="@string/education_and_family"
+        android:title="@string/education_and_family"
+        android:defaultValue="false" />
+    <CheckBoxPreference
+        android:key="@string/science_and_environment"
+        android:title="@string/science_and_environment"
+        android:defaultValue="false" />
+    <CheckBoxPreference
+        android:key="@string/technology"
+        android:title="@string/technology"
+        android:defaultValue="false" />
+    <CheckBoxPreference
+        android:key="@string/entertainment_and_arts"
+        android:title="@string/entertainment_and_arts"
+        android:defaultValue="false" />
+    <CheckBoxPreference
+        android:key="@string/africa"
+        android:title="@string/africa"
+        android:defaultValue="false" />
+    <CheckBoxPreference
+        android:key="@string/england"
+        android:title="@string/england"
+        android:defaultValue="false" />
+    <CheckBoxPreference
+        android:key="@string/europe"
+        android:title="@string/europe"
+        android:defaultValue="false" />
+    <CheckBoxPreference
+        android:key="@string/latin_america"
+        android:title="@string/latin_america"
+        android:defaultValue="false" />
+    <CheckBoxPreference
+        android:key="@string/middle_east"
+        android:title="@string/middle_east"
+        android:defaultValue="false" />
+    <CheckBoxPreference
+        android:key="@string/us_and_canada"
+        android:title="@string/us_and_canada"
+        android:defaultValue="false" />
+</PreferenceScreen>
